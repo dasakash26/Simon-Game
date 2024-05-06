@@ -60,3 +60,8 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+footer {
+    color: #dbedf3;
+    font-family: sans-serif;
+}
