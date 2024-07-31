@@ -8,7 +8,16 @@ Match the colors and sounds! 🌈🎵
 1. **Watch the pattern** 👀
 2. **Repeat the pattern** 🔁
 3. **Level up!** 🚀
-  <a href="https://dasakash26.github.io/Simon-Game/" target="_blank">
-    play 🎮
+
+---
+
+<div align="center">
+  <a href="https://dasakash26.github.io/Simon-Game/" target="_blank" style="text-decoration: none;">
+     [Play 🎮]
   </a>
+</div>
+
+  </a>
+</div>
+
 
